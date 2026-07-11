@@ -46,19 +46,21 @@ Clone the repository:
   bash
 git clone https://github.com/yourusername/EventEase-Event-Management-System.git
 ---
-##Install dependencies:
-  - npm install
+Install dependencies:
+ bash
+   npm install
  ---
 ##Run the application:
-- npm start
+ bash
+ npm start
 ---
-##Future Improvements
+Future Improvements
 - Payment integration
 - AI-based event recommendations
 - Mobile application
 - Notification system
 
 ---
-##Author
+Author
 - Dilshan Wijayawardhane
 
