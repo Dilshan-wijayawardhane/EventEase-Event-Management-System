@@ -52,13 +52,13 @@ Install dependencies:
 Run the application:
    npm start
 ---
-###Future Improvements
+Future Improvements
  Payment integration
  AI-based event recommendations
  Mobile application
  Notification system
 
 ---
-###Author
+Author
   Dilshan Wijayawardhane
 
