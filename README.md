@@ -47,12 +47,12 @@ Clone the repository:
 git clone https://github.com/yourusername/EventEase-Event-Management-System.git
 ---
 Install dependencies:
- ```bash
-   npm install
+ 
+  - npm install
 ---
 Run the application:
- ```bash
- npm start
+ 
+ - npm start
 ---
 Future Improvements
 - Payment integration
