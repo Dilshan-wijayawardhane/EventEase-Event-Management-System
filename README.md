@@ -90,10 +90,10 @@ EventEase/
 - npm or yarn
 
 ### 1. Clone the repository
+
 ```bash
 git clone https://github.com/Dilshan-wijayawardhane/EventEase-Event-Management-System.git
 cd EventEase-Event-Management-System
-
 ```bash
 
 
